@@ -1,4 +1,4 @@
 #!/bin/bash
-sudo apt-get update
-sudo apt-get install nodejs
-sudo apt-get install npm
+apt-get update
+apt-get install nodejs
+apt-get install npm
