@@ -1,3 +1,3 @@
 #!/bin/bash
-apk add nodejs
-apk add npm
+npm install
+npm start
