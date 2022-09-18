@@ -1,2 +1,2 @@
 #!/bin/bash
-apk add --update -y nodejs npm
+apk add --update nodejs npm
